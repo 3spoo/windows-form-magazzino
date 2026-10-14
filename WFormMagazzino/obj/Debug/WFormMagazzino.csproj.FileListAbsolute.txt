@@ -1,0 +1,11 @@
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\bin\Debug\WFormMagazzino.exe.config
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\bin\Debug\WFormMagazzino.exe
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\bin\Debug\WFormMagazzino.pdb
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.csproj.AssemblyReference.cache
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.Form1.resources
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.Properties.Resources.resources
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.csproj.GenerateResource.cache
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.csproj.CoreCompileInputs.cache
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.exe
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.pdb
+D:\ESPOSITO_FABIO\WFormMagazzino\WFormMagazzino\obj\Debug\WFormMagazzino.exe.config
